@@ -1,0 +1,40 @@
+body {
+  background: #121212;
+  color: #eaeaea;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background: #1e1e1e;
+  color: #f5f5f5;
+  border: 1px solid #333;
+}
+
+.btn {
+  border-radius: 6px;
+}
+
+.btn-primary {
+  background: #0d6efd;
+}
+
+.btn-danger {
+  background: #dc3545;
+}
+
+.btn-success {
+  background: #198754;
+}
+
+.navbar {
+  background: #1f1f1f;
+  padding: 1rem;
+}
+.navbar a {
+  color: #eaeaea;
+  margin-left: 10px;
+  text-decoration: none;
+}
+.navbar a:hover {
+  color: #0d6efd;
+}
